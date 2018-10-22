@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-10-22T02:53:14" hostname="DESKTOP-OTOQJF4" time="0.02">
+  <properties/>
+  <testcase name="MethodForOnlyOneInputCoverage" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="MethodForCoverage" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="MethodForMoreNumberOfInputsCoverage" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="MethodForBubbleAndMergeSortUsingRandom" classname="test.java.AlgoTest" time="0.008"/>
+  <testcase name="MethodOfBubbleAndSelectionSortUsingRandom" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="MethodOfBubbleAndInsertionSortUsingRandom" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="IfNullPointerException" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="MethodOfBubbleAndHeapSortUsingRandom" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="MethodForNullInputCoverage" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="MethodOfBubbleAndQuickSortUsingRandom" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
